@@ -2449,6 +2449,7 @@ h6 {
         border-radius: 7px;
         margin-bottom: 25px;
         box-shadow: 10px 10px 5px #101010;
+        border: 1px solid black;
 
     }
     @media (max-width: 1480px) {
